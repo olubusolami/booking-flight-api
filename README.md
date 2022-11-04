@@ -13,7 +13,7 @@ Task Objective: Create a rest API that has the following features:
 
 ## Acknowledgements
 
- - [Awesome README](https://booking-flight-api/README.md)
+ - [README](https://github.com/olubusolami/booking-flight-api/blob/main/README.md)
 
 
 
