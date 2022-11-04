@@ -17,7 +17,7 @@ Task Objective: Create a rest API that has the following features:
 
 
 
-## Authors
+## Author
 
 - [@Olúbùsọ́lá](https://github.com/olubusolami)
 
